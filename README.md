@@ -63,15 +63,11 @@ conda env create -f ml25.yml
 
 ##  Reference
 
-Deep Learning from Scratch：# https://www.oreilly.co.jp/books/9784873117584/
-Dive into Deep Learning
-@book{zhang2023dive,
-    title={Dive into Deep Learning},
-    author={Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.},
-    publisher={Cambridge University Press},
-    note={\url{https://D2L.ai}},
-    year={2023}
-}
+Deep Learning from Scratch：https://www.oreilly.co.jp/books/9784873117584/
+Dive into Deep Learning 
+- Zhang, Aston, Lipton, Zachary C., Li, Mu, and Smola, Alexander J. (2023). "Dive into Deep Learning". Cambridge University Press. [Online]. Available: [https://D2L.ai](https://D2L.ai)
+
+
 ## 贡献指南 / Contribution Guidelines
 
 Contributions are welcome! If you find any issues or have ideas, please submit an issue or pull request.
