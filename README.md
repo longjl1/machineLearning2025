@@ -63,7 +63,7 @@ conda env create -f ml25.yml
 
 ##  Reference
 
-Deep Learning from Scratch
+Deep Learning from Scratch：# https://www.oreilly.co.jp/books/9784873117584/
 
 ## 贡献指南 / Contribution Guidelines
 
