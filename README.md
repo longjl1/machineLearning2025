@@ -1,4 +1,4 @@
-# 深度学习入门 / Introduction to Deep Learning
+# 机器学习/深度学习入门 / Introduction to ML / DL
 
 ## 项目介绍 / Project Introduction
 
@@ -6,9 +6,9 @@
 
 This project aims to help beginners understand the basic concepts and algorithms of deep learning, primarily through manual implementation to deeply analyze the core ideas of deep learning. The project is based on the book "Deep Learning from Scratch" and is divided into two parts:
 
-1. 第一部分：从零开始手推深度学习算法，帮助理解深度学习的基本原理和数学推导。
+1. 第一部分：从零开始手推机器学习.深度学习算法，帮助理解深度学习的基本原理和数学推导。
    
-   Part 1: Manual implementation of deep learning algorithms from scratch to help understand the fundamental principles and mathematical derivations of deep learning.
+   Part 1: Manual implementation of machine learning and deep learning algorithms from scratch to help understand the fundamental principles and mathematical derivations of deep learning.
 
 2. 第二部分：使用 PyTorch 框架实现深度学习模型，学习如何将理论应用于代码实践。
    
