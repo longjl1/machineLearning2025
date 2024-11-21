@@ -66,6 +66,13 @@ conda env create -f ml25.yml
 - Deep Learning from Scratch：https://www.oreilly.co.jp/books/9784873117584/ 
 
 - Zhang, Aston, Lipton, Zachary C., Li, Mu, and Smola, Alexander J. (2023). "Dive into Deep Learning". Cambridge University Press. [Online]. Available: [https://D2L.ai](https://D2L.ai)
+- @misc{playground-series-s4e5,
+    author = {Walter Reade and Ashley Chow},
+    title = {Regression with a Flood Prediction Dataset},
+    year = {2024},
+    howpublished = {\url{https://kaggle.com/competitions/playground-series-s4e5}},
+    note = {Kaggle}
+}
 
 
 ## 贡献指南 / Contribution Guidelines
