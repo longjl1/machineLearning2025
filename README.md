@@ -67,7 +67,7 @@ conda env create -f ml25.yml
 
 - Zhang, Aston, Lipton, Zachary C., Li, Mu, and Smola, Alexander J. (2023). "Dive into Deep Learning". Cambridge University Press. [Online]. Available: [https://D2L.ai](https://D2L.ai)
 
-@misc{playground-series-s4e5,
+[@misc] {playground-series-s4e5,
     author = {Walter Reade and Ashley Chow},
     title = {Regression with a Flood Prediction Dataset},
     year = {2024},
